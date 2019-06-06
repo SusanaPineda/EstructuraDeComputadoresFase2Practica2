@@ -1,4 +1,4 @@
-# Estructura de computadores Fase 2 Practica 2
+# Diseño de un camino de datos uniciclo para MIPS en VHDL
 Diseño de un camino de datos uniciclo para MIPS en VHDL
 
 # 1. INTRODUCCIÓN
